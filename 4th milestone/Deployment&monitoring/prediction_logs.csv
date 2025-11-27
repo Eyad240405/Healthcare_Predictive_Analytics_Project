@@ -1,0 +1,10 @@
+timestamp,age,bmi,hbA1c,glucose,gender,race,smoking,prediction,probability
+2025-11-27 11:27:33,30,25.0,5.5,120,Male,AfricanAmerican,Current,1,99.61032334428305
+2025-11-27 11:28:32,15,26.0,5.5,100,Male,AfricanAmerican,Current,1,99.61032334428305
+2025-11-27 11:29:04,30,25.0,5.5,120,Male,Hispanic,Not current,1,99.61032334428305
+2025-11-27 11:33:14,10,25.0,6.0,120,Female,AfricanAmerican,Current,1,99.68305100274117
+2025-11-27 11:35:19,20,25.0,5.5,120,Female,Caucasian,Former,1,99.66911874683554
+2025-11-27 11:41:04,30,25.0,5.5,120,Male,AfricanAmerican,Current,1,99.61032334428305
+2025-11-27 11:41:31,60,25.0,5.5,120,Male,AfricanAmerican,Current,1,99.61032334428305
+2025-11-27 11:41:40,60,25.0,5.5,120,Female,Hispanic,Current,1,99.68305100274117
+2025-11-27 11:42:00,18,30.0,3.6,120,Female,Hispanic,Current,1,99.68305100274115
